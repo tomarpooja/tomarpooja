@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @tomarpooja 
 - 👀 I’m interested in  coding
 - 🌱 I’m currently learning  java language 
--  i am from india 
+-  i am from india .
 
 <!---
 tomarpooja/tomarpooja is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
